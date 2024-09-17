@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a USAJOBS Discord Bot<br>🌱 I’m currently learning about Cybersecurity and multithreading!<br>💬 Ask me about anything!<br>⚡ I like to compete in CTFs
+🔭 I’m currently working on a USAJOBS Discord Bot and creating a three.js page<br>🌱 I’m currently learning about Cybersecurity, multithreading, and three.js!<br>💬 Ask me about anything!<br>⚡ I like to compete in CTFs
 
 
 # 💻 Tech Stack:
