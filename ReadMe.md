@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iwalanicampbell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 > "and the universe said I love you because you are love."
 > — *Minecraft*
 
